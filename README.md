@@ -26,9 +26,9 @@ Mais Voce is a recipe app for food and drink, where the user can search for reci
 <br>
 
 ## Quem fez? / Who made it?
+- [Gabriel Matina](https://github.com/gabrielmatina)
 - [Pedro Silva](https://github.com/opedrodev)
 - [Gabriel Palhares](https://github.com/GPalhares)
-- [Gabriel Matina](https://github.com/gabrielmatina)
 - [Malu Brandão](https://github.com/malubrandaor)
 - [Lucas Daniel](https://github.com/LDRezende)
 - [Flavio Ramon](https://github.com/flavioramonnunes)
